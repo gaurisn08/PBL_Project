@@ -1,0 +1,44 @@
+@import
+url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Quicksand:wght@300;400;500;600;700&display=swap');
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+  }
+body{
+    background-color:#03045E;
+    font-family: 'Quicksand';
+}
+h2{ 
+    color: #ffffff;
+    margin-top: 6%;
+    margin-left:2%;
+    text-align: center;
+}
+.login{
+  background-color:#ffffff;
+  width:28%;
+  padding-left:6%;
+  padding-top:7%;
+  padding-bottom:3%;
+  margin-left:37%;
+  margin-top:3%;
+}
+#uname,#pwd{
+    width:50%;
+    height:20px;
+    font-family: 'Quicksand';
+}
+#log{
+    font-family: 'Quicksand';
+    width:28.15%;
+    height:50px;
+    margin-left:37%;
+    background-color:#1C658C;
+    color: #ffffff;
+    
+}
+label{
+    font-weight: bold;
+    color:rgb(22, 22, 16);
+}
